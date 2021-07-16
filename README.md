@@ -27,5 +27,13 @@ Server running on port http://localhost:3000
 We can browse api at url -> http://localhost:3000/api
 
 
+## Added Mongoose Package Support and user model
+```
+npm install --save mongoose 
+```
+
+
+
+
 
 
